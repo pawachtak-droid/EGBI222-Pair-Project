@@ -1,32 +1,53 @@
 # EGBI222 Pair Project — Exploratory data analysis on Thyroid disease datasset
-## Made by Prem Paksin (6713376) and Pawach Takpiman (6713386)
+**Authors:**  
+👩‍💻 Prem Paksin (6713376)
+👨‍💻 Pawach Takpiman (6713386)
+
+
+---
 
 ## 🚩 Project Overview
-  This project shows exploratory data analysis on a thyroid disease sataset to understand the graph, pattern, distribution, and correlations among different medical symptoms that may influence thyroid conditions by using phyton
+  This project shows exploratory data analysis on a **thyroid disease sataset** to understand the graph, pattern, distribution, and correlations among different medical symptoms that may influence thyroid conditions by using phyton.
+
+---
 
 ## 🔣 Datasset
-  Source: Kaggle - Thyroid Disease Data
-  File used: Thyroid_Diff.csv
+• Source: [Kaggle - Thyroid Disease Data](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data/code)
+  
+• File used: `Thyroid_Diff.csv`
+
+---
 
 ## 🪜 Steps proceeded
-1. Import data
-   • Upload dataset through colab (files.upload()).
+1. **Import data**
+
+   • Upload dataset through colab `(files.upload())`
+
    • Load the data into a pandas DataFrame.
-2. Inspect data
-   • Display first few rows using df.head().
-   • Summary statistics with df.describe().
+3. **Inspect data**
+
+   • Display first few rows using `head()` 
+
+   • Summary statistics with `describe()`
+
    • Check for null values and data types.
-3. Exploratory analysis
+5. **Exploratory analysis**
+
    • Examine distributions of key variables.
+
    • Visualize relationships using histograms, pairplots, and boxplots.
-4. Insight
+7. **Insight**
+
    • dentify abnormal hormone patterns associated with different thyroid conditions.
 
-## 🧠 Libaries used
-   • import pandas as pd
-   • import numpy as np
-   • import matplotlib.pyplot as plt
-   • import seaborn as sns
-   • from google.colab import files
+---
 
-🚀 How to run
+## 🧠 Libaries used
+  `pandas`, `numpy`, `matplotlib`, `seaborn`, `google.colab`
+
+---
+
+## 🚀 How to run
+1. Open the notebook in **Google Colab** ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+2. Download the [Thyroid disease dataset](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data/code)
+3. Run each cell in order to view analysis and plots.
