@@ -1,14 +1,14 @@
-EGBI222 Pair Project — Exploratory data analysis on Thyroid disease datasset
-Made by Prem Paksin (6713376) and Pawach Takpiman (6713386)
+# EGBI222 Pair Project — Exploratory data analysis on Thyroid disease datasset
+## Made by Prem Paksin (6713376) and Pawach Takpiman (6713386)
 
-🚩 Project Overview
+## 🚩 Project Overview
   This project shows exploratory data analysis on a thyroid disease sataset to understand the graph, pattern, distribution, and correlations among different medical symptoms that may influence thyroid conditions by using phyton
 
-🔣 Datasset
+## 🔣 Datasset
   Source: Kaggle - Thyroid Disease Data
   File used: Thyroid_Diff.csv
 
-🪜 Steps proceeded
+## 🪜 Steps proceeded
 1. Import data
    • Upload dataset through colab (files.upload()).
    • Load the data into a pandas DataFrame.
@@ -22,7 +22,7 @@ Made by Prem Paksin (6713376) and Pawach Takpiman (6713386)
 4. Insight
    • dentify abnormal hormone patterns associated with different thyroid conditions.
 
-🧠 Libaries used
+## 🧠 Libaries used
    • import pandas as pd
    • import numpy as np
    • import matplotlib.pyplot as plt
