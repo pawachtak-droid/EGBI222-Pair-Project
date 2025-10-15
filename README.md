@@ -1,6 +1,6 @@
 ## EGBI222 Pair Project — Exploratory data analysis on Thyroid disease dataset
 **Authors:**  
-👩‍💻 Prem Paksin (6713376)
+👩‍💻 Prem Paksin (6713378)
 
 👨‍💻 Pawach Takpiman (6713386)
 
