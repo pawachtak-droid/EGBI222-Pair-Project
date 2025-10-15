@@ -13,7 +13,7 @@
 ---
 
 ### 🔣 Datasset
-• Source: [Kaggle - Thyroid Disease Data](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data/code)
+• Source: [Thyroid disease dataset](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data/code)
   
 • File used: `Thyroid_Diff.csv`
 
