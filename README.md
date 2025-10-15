@@ -8,7 +8,7 @@
 ---
 
 ### 🚩 Project Overview
-  This project shows exploratory data analysis on a **thyroid disease sataset** to understand the graph, pattern, distribution, and correlations among different medical symptoms that may influence thyroid conditions by using phyton.
+   This project shows exploratory data analysis on a **thyroid disease sataset** to understand the graph, pattern, distribution, and correlations among different medical symptoms that may influence thyroid conditions by using phyton.
 
 ---
 
